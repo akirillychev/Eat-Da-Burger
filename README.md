@@ -19,3 +19,12 @@ click hungry
 adds it to burgers read
 click delete to delete from ready
 Add a burger lets you make your own 
+
+Repo link
+https://github.com/akirillychev/Eat-Da-Burger
+
+Heroku Link
+https://aqueous-woodland-31106.herokuapp.com/
+
+screenshot
+![screenshot](public/assets/screenshot.png)
